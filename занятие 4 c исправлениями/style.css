@@ -1,0 +1,43 @@
+h1 {
+    font-family: "Verdana";
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    background-color: white;
+    margin: 10px, 25px;
+    color: #25a561;
+}
+h2 {
+    font-family: "Verdana";
+    font-size: 1.3em;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 1.1;
+    color: black;
+}
+h3 {
+    font-family: "Arial";
+    font-size: 110%;
+    font-weight: semibold;
+    font-style: italic;
+    text-align: center;
+    margin: 0px, 25px;
+    color: #25a561;
+    border-top-color: #32686a;
+    border-top-width: 1px;
+    border-top-style: solid;
+ }
+ p {
+    font-family: "Verdana";
+    font-size: 0.8em;
+    text-indent: 3%;
+    text-align: justify;
+    margin: 5px, 25px;
+ }
+ ul {
+    font-family: "Arial";
+    font-size: 110%;
+    font-style: italic;
+    color: #25a561;
+ }
+ 
